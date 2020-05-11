@@ -1,0 +1,9 @@
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\bin\Debug\netcoreapp3.1\Bussiness_Logic.deps.json
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\bin\Debug\netcoreapp3.1\Bussiness_Logic.dll
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\bin\Debug\netcoreapp3.1\Bussiness_Logic.pdb
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\obj\Debug\netcoreapp3.1\Bussiness_Logic.csprojAssemblyReference.cache
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\obj\Debug\netcoreapp3.1\Bussiness_Logic.csproj.CoreCompileInputs.cache
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\obj\Debug\netcoreapp3.1\Bussiness_Logic.AssemblyInfoInputs.cache
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\obj\Debug\netcoreapp3.1\Bussiness_Logic.AssemblyInfo.cs
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\obj\Debug\netcoreapp3.1\Bussiness_Logic.dll
+C:\Users\AlejandroSandoval\Documents\Visual Studio 2019\Hydrocarbons\Bussiness_Logic\obj\Debug\netcoreapp3.1\Bussiness_Logic.pdb
